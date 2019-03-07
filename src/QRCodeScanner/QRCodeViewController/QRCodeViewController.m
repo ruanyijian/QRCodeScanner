@@ -6,6 +6,7 @@
 //  Copyright © 2018年 ccnyou. All rights reserved.
 //
 
+#import "UIKit/UIKit.h"
 #import "UIView+Toast.h"
 #import "WSLNativeScanTool.h"
 #import "QRCodeViewController.h"

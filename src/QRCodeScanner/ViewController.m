@@ -38,7 +38,7 @@
 
 - (void)_initAppearance {
     self.title = _T("扫描中...");
-    self.view.backgroundColor = [UIColor blackColor];
+    self.view.backgroundColor = [UIColor blueColor];
     UIBarButtonItem *rightButton = [[UIBarButtonItem alloc] initWithTitle:_T("相册")
                                                                     style:UIBarButtonItemStylePlain
                                                                    target:self
