@@ -1,0 +1,3 @@
+token: fd974a53f02e79053bceaf702bd2653b0cbc24968a6d3e1194add639ab59a6c5
+key: acme
+value: upgrade|https://fir.im/85uh
